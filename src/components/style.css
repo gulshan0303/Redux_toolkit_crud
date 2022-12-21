@@ -1,0 +1,13 @@
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2rem;
+}
+.form-label{
+   font-size: 20px;
+}
+.form-control{
+    width: 420px;
+    height: 50px;
+}
